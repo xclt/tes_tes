@@ -2,3 +2,5 @@ ini rencana doang
 untuk test branching di git
 ---tes tes
 tambahin lagi coba 3 branch
+pokoknya ini tambahan fitur 2
+bukan fitur 1
