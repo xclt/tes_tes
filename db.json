@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Motacilla aguimp","category":"Red"},
+{"id":2,"name":"Gazella thompsonii","category":"Teal"},
+{"id":3,"name":"Lybius torquatus","category":"Crimson"},
+{"id":4,"name":"Meleagris gallopavo","category":"Green"},
+{"id":5,"name":"Felis silvestris lybica","category":"Purple"},
+{"id":6,"name":"Helogale undulata","category":"Teal"},
+{"id":7,"name":"Mazama gouazoubira","category":"Violet"},
+{"id":8,"name":"Mazama gouazoubira","category":"Pink"},
+{"id":9,"name":"Phalacrocorax niger","category":"Fuscia"},
+{"id":10,"name":"Eudyptula minor","category":"Aquamarine"},
+{"id":11,"name":"Cynictis penicillata","category":"Pink"},
+{"id":12,"name":"Papio cynocephalus","category":"Fuscia"},
+{"id":13,"name":"Pedetes capensis","category":"Yellow"},
+{"id":14,"name":"Chlamydosaurus kingii","category":"Maroon"},
+{"id":15,"name":"Spermophilus parryii","category":"Red"},
+{"id":16,"name":"Tetracerus quadricornis","category":"Violet"},
+{"id":17,"name":"unavailable","category":"Khaki"},
+{"id":18,"name":"Mustela nigripes","category":"Blue"},
+{"id":19,"name":"Crotalus triseriatus","category":"Khaki"},
+{"id":20,"name":"Lepus townsendii","category":"Fuscia"}
+]
+}
